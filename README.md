@@ -112,7 +112,6 @@ body {
             window.location.href = 'https://i.ibb.co/mShYqBz/Whats-App-Image-2024-09-24-at-09-57-12.jpg'; // Atualiza a página para mostrar a imagem
         }
     </script>
-<title></title>
 </head>
 <body>
     <div class="wrapper" onclick="showImage()">
