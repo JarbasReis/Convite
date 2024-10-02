@@ -18,7 +18,7 @@
             justify-content: center;
             align-items: center;
             font-family: sans-serif;
-            background-color: white;
+            background-color: rgb(255, 220, 156);
         }
         
         .wrapper {
@@ -87,7 +87,7 @@
             text-align: center;
             font-size: 30px;
             margin-top: 30px;
-            color: #3B4049;
+            color: pink;
         }
         
         .wrapper:hover .lid.one {
@@ -108,15 +108,15 @@
         .button-link {
             margin-top: 20px;
             padding: 10px 20px;
-            background-color: #ff69b4;
-            color: white;
+            background-color: #FAF0E6;
+            color: pink;
             border: none;
             border-radius: 5px;
             cursor: pointer;
         }
 
         .button-link:hover {
-            background-color: #f1b4d5;
+            background-color: white;
         }
     </style>
     <script>
@@ -142,7 +142,6 @@
             <p>Convidamos você!</p>
         </div>
     </div>
-
     <button class="button-link" onclick="openLink2()">Local no maps</button>
     <button class="button-link" onclick="openLink3()">Lista de presente</button>
 </body>
