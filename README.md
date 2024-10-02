@@ -118,6 +118,11 @@
         .button-link:hover {
             background-color: white;
         }
+        h1{
+            text-align: center;
+            color: pink;
+            font-size: 30px;
+        }
     </style>
     <script>
         function showImage() {
@@ -134,6 +139,7 @@
     </script>
 </head>
 <body>
+    <h1>Segure na carta</h1>
     <div class="wrapper" onclick="showImage()">
         <div class="lid one"></div>
         <div class="lid two"></div>
