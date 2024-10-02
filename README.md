@@ -18,7 +18,7 @@
             justify-content: center;
             align-items: center;
             font-family: sans-serif;
-            background-color: #FFDAB9;
+            background-color: white;
         }
         
         .wrapper {
@@ -116,7 +116,7 @@
         }
 
         .button-link:hover {
-            background-color: #ff1493;
+            background-color: #f1b4d5;
         }
     </style>
     <script>
