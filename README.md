@@ -18,7 +18,10 @@
             justify-content: center;
             align-items: center;
             font-family: sans-serif;
-            background-color: rgb(255, 220, 156);
+            background-image: url('https://i.ibb.co/FwyNtMM/Voc-tem-um-convite-especial.jpg');
+            background-size: cover;
+            background-position: center; 
+            background-repeat: no-repeat;
         }
         
         .wrapper {
@@ -87,7 +90,7 @@
             text-align: center;
             font-size: 30px;
             margin-top: 30px;
-            color: pink;
+            color: rgb(211, 144, 144);
         }
         
         .wrapper:hover .lid.one {
@@ -109,7 +112,7 @@
             margin-top: 20px;
             padding: 10px 20px;
             background-color: #FAF0E6;
-            color: pink;
+            color:  rgb(211, 144, 144);
             border: none;
             border-radius: 5px;
             cursor: pointer;
@@ -134,18 +137,18 @@
         }
 
         function openLink3() {
-            window.location.href = 'https://noivos.casar.com/samara-e-jarbas#/presentes'; // Link 3
+            window.location.href = 'https://noivos.casar.com/samara-e-jarbas'; // Link 3
         }
     </script>
 </head>
 <body>
-    <h1>Segure na carta</h1>
+    <h1>Jarbas&Samara</h1>
     <div class="wrapper" onclick="showImage()">
         <div class="lid one"></div>
         <div class="lid two"></div>
         <div class="envelope"></div>
         <div class="letter">
-            <p>Convidamos você!</p>
+            <p>Clique aqui!</p>
         </div>
     </div>
     <button class="button-link" onclick="openLink2()">Local no maps</button>
