@@ -123,7 +123,7 @@
         }
         h1{
             text-align: center;
-            color: pink;
+            color: rgb(211, 144, 144);
             font-size: 30px;
         }
     </style>
